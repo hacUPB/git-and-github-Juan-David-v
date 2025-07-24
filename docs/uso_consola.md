@@ -22,3 +22,4 @@ Este documento resume los comandos básicos aprendidos para usar la consola o te
 ## 🧭 Ver la ubicación actual
 
 - `pwd`: Muestra la ruta del directorio actual 
+![alt text](../images/imagen1github.jpg)

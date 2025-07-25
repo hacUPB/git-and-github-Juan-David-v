@@ -1,13 +1,27 @@
-# Unidad No. 1 - Git y GitHub
-## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+# ACTIVIDAD #
+El objetivo de esta actividad es crear y estructurar un proyecto de programación utilizando Git y GitHub. Aunque el código fuente será un componente mínimo pero es alli como estudiantes vamos a demostrar lo que hemos aprendido con git.
+
+
+## Clonar repositorio ##
+para clonar el repositorio se usa git clone 
+## instalar dependencias ##
+## ejecutar el proyecto ## 
+
+[Repositorio local](docs/repositorio_local.md)
+[Repositorio Remoto](docs/repositorio_remoto.md)
+
+[usoconsola](docs/uso_consola.md)
+
+[![Review Assignement Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6f1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
+    # UNIDAD No.1 -Git y Git hub
+Juan David Villada Restrepo
 ---
+
 # Evaluación
 
 ### **Descripción de la Actividad:**
 
-El objetivo de esta actividad es crear y estructurar un proyecto de programación utilizando Git y GitHub. Aunque el código fuente será un componente mínimo, el enfoque estará en la organización del proyecto y la documentación de lo aprendido sobre los siguientes temas:
+El objetivo de esta actividad es crear y estructurar un proyecto de programación utilizando Git y GitHub. Aunque el código fuente será un componente mínimo pero es alli como estudiantes vamos a demostrar lo que hemos aprendido con git 
 
 1. Uso de la consola para navegar entre directorios, crear directorios y archivos.
 2. Creación de repositorios locales usando comandos de Git.

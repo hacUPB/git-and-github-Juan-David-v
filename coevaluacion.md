@@ -1,7 +1,8 @@
 # Archivo para coevaluacion de la unidad 1
 
-Estudiante evaluado:
-link al repositorio: 
+## Estudiante evaluado: ##
+---
+## link al repositorio: ##
 
 |criterio de evaluacion|Puntaje|
 |---|---|
